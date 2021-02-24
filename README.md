@@ -13,4 +13,4 @@ I am a volunteer at [Le Romandie](https://www.leromandie.ch/), I am also co-foun
 
 
 
-![Buy me a coffee](https://fatalement.com/assets/img/sample/buy_coffee.png "Buy me a coffee")
+[<img src="Assets/icon.png" width="200" alt="Buy me a coffee"!>](https://www.buymeacoffee.com/dianedelallee)
