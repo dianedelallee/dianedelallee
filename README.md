@@ -14,3 +14,6 @@ I am a volunteer at [Le Romandie](https://www.leromandie.ch/), I am also co-foun
 
 
 <a href="https://www.buymeacoffee.com/dianedelallee" target="_blank"><img src="https://fatalement.com/assets/img/sample/buy_coffee.png" width="200" alt="Buy me a coffee"></a>
+
+
+![Diane's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianedelallee&count_private=true&show_icons=true&theme=nord)
