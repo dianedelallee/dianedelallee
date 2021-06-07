@@ -4,7 +4,7 @@
 **dianedelallee/dianedelallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working with Python and Angular in Hacknowledge based in Switzerland 
+- 🔭 I’m currently working with Ruby at Qoqa, and I also code in Python. I am based in Switzerland 
 
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I commute in fixie 🚲
