@@ -1,6 +1,8 @@
 import feedparser
 import pathlib
 import re
+import datetime
+from dateutil import parser
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -25,7 +27,7 @@ def fetch_writing():
                {
                    'title': entry['title'],
                    'url': entry['link'].split('#')[0],
-                   'published': entry['published']
+                   'published': parser.parse(entry['published']).strftime("%A %d %B %Y")
                }
                for entry in top5_entries
            ], entry_count
