@@ -20,11 +20,12 @@ def fetch_writing():
     entries = feedparser.parse('https://fatalement.com/feed.xml')['entries']
     top5_entries = entries[:5]
     entry_count = len(entries)
+
     return [
                {
                    'title': entry['title'],
                    'url': entry['link'].split('#')[0],
-                   'published': re.findall(r'(.*?)\s00:00', entry['published'])[0]
+                   'published': entry['published']
                }
                for entry in top5_entries
            ], entry_count
