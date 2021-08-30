@@ -9,4 +9,8 @@ jobs:
       - name: check branch name
         run: |
           echo "GITHUB_REF:$GITHUB_REF"
-          echo "GITHUB_HEAD_REF:$GITHUB_HEAD_REF"
+          echo "$GITHUB_HEAD_REF!"
+          echo GITHUB_REF=${GITHUB_REF}
+          echo EXTRACT_GITHUB_REF=${GITHUB_REF##*/}
+          echo EXTRACT_GITHUB_REF_HEADS=$(echo ${GITHUB_REF#refs/heads/})
+          echo "::set-env name=BRANCH_NAME::$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
