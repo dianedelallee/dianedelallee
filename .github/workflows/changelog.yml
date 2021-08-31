@@ -6,6 +6,9 @@ jobs:
   generate_changelog:
     runs-on: ubuntu-latest
     steps:
-      - name: Execute update of README
-        run: |
-          echo ${{ github.event.pull_request.base.ref }}
+      - name: Set output
+          id: vars
+          run: echo ::set-output name=short_ref::${GITHUB_REF#refs/*/}
+
+      - name: Check output
+        run: echo ${{ steps.vars.outputs.short_ref }}
