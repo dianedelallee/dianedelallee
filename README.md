@@ -14,11 +14,7 @@ I am a volunteer at [Le Romandie](https://www.leromandie.ch/), I am also co-foun
 ## 📝 Recent Writing
 
 <!-- writing starts -->
-* [Play with Ruby](https://fatalement.com//posts/play-with-ruby/) - Wednesday 30 June 2021
-* [Play with SCSS](https://fatalement.com//posts/scss-tips/) - Tuesday 09 March 2021
-* [I decided to write a CSS library](https://fatalement.com//posts/why-i-wrote-a-css-lib/) - Monday 08 March 2021
-* [Block website to improve focuses](https://fatalement.com//posts/block-website-to-improve-focus/) - Tuesday 02 March 2021
-* [2020 review and 2021 Goals](https://fatalement.com//posts/review-2020-and-2021-goals/) - Monday 01 March 2021
+
 <!-- writing ends -->
 
 View more articles on [fatalement.com](https://fatalement.com)
