@@ -19,7 +19,7 @@ def replace_writing(content, marker, chunk, inline=False):
 
 
 def fetch_writing():
-    entries = feedparser.parse('https://fatalement.com/feed.xml')['entries']
+    entries = feedparser.parse('https://www.fatalement.com/feed.xml')['entries']
     top5_entries = entries[:5]
 
     return [
