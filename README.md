@@ -14,7 +14,11 @@ I am a volunteer at [Le Romandie](https://www.leromandie.ch/), I am also co-foun
 ## 📝 Recent Writing
 
 <!-- writing starts -->
-
+* [2021 review and 2022 Goals](https://www.fatalement.com/posts/review-and-2022-goals/) - Wednesday 05 January 2022
+* [Ruby iteration on attributes](https://www.fatalement.com/posts/ruby-iteration-on-attribute/) - Tuesday 30 November 2021
+* [Test Rails Validator with ActiveSupport::TestCase](https://www.fatalement.com/posts/test-rails-validator/) - Wednesday 29 September 2021
+* [Fight with changelog conflicts](https://www.fatalement.com/posts/changelog-conflict/) - Thursday 23 September 2021
+* [Play with Ruby](https://www.fatalement.com/posts/play-with-ruby/) - Wednesday 30 June 2021
 <!-- writing ends -->
 
 View more articles on [www.fatalement.com](https://www.fatalement.com)
