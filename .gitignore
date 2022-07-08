@@ -1,0 +1,8 @@
+.DS_Store
+._*
+\.idea/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.ruby-version
