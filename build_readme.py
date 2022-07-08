@@ -54,5 +54,5 @@ if __name__ == '__main__':
     if days > 0:
         res_day += f" {days} days"
     readme = readme_path.open().read()  # Need to read again with updated entries
-    rewritten_qoqa_days = replace_writing(readme, 'qoqa_days', qoqa_days_count, inline=True)
+    rewritten_qoqa_days = replace_writing(readme, 'qoqa_days', res_day, inline=True)
     readme_path.open('w').write(rewritten_qoqa_days)
