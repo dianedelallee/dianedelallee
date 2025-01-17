@@ -15,4 +15,4 @@ I am a volunteer at [Le Romandie](https://www.leromandie.ch/), I am also co-foun
 
 You can read my blog on [www.fatalement.com](https://www.fatalement.com)
 
-<a href="https://www.buymeacoffee.com/dianedelallee" target="_blank"><img src="https://www.fatalement.com/assets/buy_coffee.png" width="200" alt="Buy me a coffee"></a>
+<a href="https://www.buymeacoffee.com/dianedelallee" target="_blank"><img src="https://raw.githubusercontent.com/dianedelallee/dianedelallee/refs/heads/main/buy_coffee.png" width="200" alt="Buy me a coffee"></a>
