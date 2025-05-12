@@ -9,8 +9,7 @@
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I commute in fixie 🚲
 
-I am a volunteer at [Le Romandie](https://www.leromandie.ch/), I am also co-founder of [coup d'un soir](https://www.coup-dun-soir.ch/actualites).
-
+I am a volunteer at [Petzi](https://www.petzi.ch/fr/association/a-propos-de-petzi/) and at [Le Romandie](https://www.leromandie.ch/).
 ## 📝 Recent Writing
 
 You can read my blog on [www.fatalement.com](https://www.fatalement.com)
