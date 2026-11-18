@@ -12,6 +12,6 @@
 I am a volunteer at [Petzi](https://www.petzi.ch/fr/association/a-propos-de-petzi/) and at [Le Romandie](https://www.leromandie.ch/).
 ## 📝 Recent Writing
 
-You can read my blog on [www.fatalement.com](https://www.fatalement.com)
+You can see my projects and photos on [www.fatalement.com](https://www.fatalement.com)
 
 <a href="https://www.buymeacoffee.com/dianedelallee" target="_blank"><img src="https://raw.githubusercontent.com/dianedelallee/dianedelallee/refs/heads/main/buy_coffee.png" width="200" alt="Buy me a coffee"></a>
